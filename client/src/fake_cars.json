@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "brand": "Mitsubishi",
+    "model": "Montero",
+    "color": "Silver",
+    "model_year": 2002,
+    "img_src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mitsubishi_Pajero_%28V80%29_front.jpg",
+    "price": "$2814.46",
+    "description": "",
+    "availability": false
+  },
+  {
+    "id": 2,
+    "brand": "Volkswagen",
+    "model": "Passat",
+    "color": "Maroon",
+    "model_year": 2008,
+    "img_src": "https://imotobank.com/wp-content/uploads/2015/09/IMG_2911-s.jpg",
+    "price": "$1731.98",
+    "description": "",
+    "availability": false
+  },
+  {
+    "id": 3,
+    "brand": "Saturn",
+    "model": "L-Series",
+    "color": "Red",
+    "model_year": 2003,
+    "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/00-02_Saturn_L-Series_sedan.jpg/1920px-00-02_Saturn_L-Series_sedan.jpg",
+    "price": "$2238.35",
+    "description": "",
+    "availability": true
+  },
+  {
+    "id": 4,
+    "brand": "Jeep",
+    "model": "Compass",
+    "color": "Violet",
+    "model_year": 2012,
+    "img_src": "https://static.wixstatic.com/media/d705c3_7e60fddbd4ba4da3a6b2aa398e93d3d2~mv2.jpg",
+    "price": "$2732.99",
+    "description": "",
+    "availability": false
+  },
+  {
+    "id": 5,
+    "brand": "Mitsubishi",
+    "model": "Lancer Evolution",
+    "color": "Purple",
+    "model_year": 2002,
+    "img_src": "https://besthqwallpapers.com/Uploads/1-10-2016/8849/mitsubishi-lancer-evolution-x-tuning-lancer-purple-lancer-evo-x.jpg",
+    "price": "$3849.47",
+    "description": "",
+    "availability": false
+  },
+  {
+    "id": 6,
+    "brand": "Chevrolet",
+    "model": "Suburban",
+    "color": "Indigo",
+    "model_year": 2009,
+    "img_src": "http://images.gtbrandlot.com/pictures/8666353.jpg",
+    "price": "$1252.30",
+    "description": "",
+    "availability": false
+  },
+  {
+    "id": 7,
+    "brand": "Dodge",
+    "model": "Ram Van B350",
+    "color": "Yellow",
+    "model_year": 1994,
+    "img_src": "https://cdn.hibid.com/img.axd?id=6067711447&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=LThmks5DuGMhHonVuLXHeInr0h1hyuv8",
+    "price": "$1762.42",
+    "description": "",
+    "availability": true
+  }
+]

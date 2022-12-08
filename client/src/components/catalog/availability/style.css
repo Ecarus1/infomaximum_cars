@@ -1,0 +1,22 @@
+.availability__block {
+  background: #000000;
+  color: #ffffff;
+  padding: 15px 34px;
+  border-radius: 15px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.availability__img {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  transition: width 0.2s;
+}
+
+.availability__img_null {
+  opacity: 0.3;
+}
